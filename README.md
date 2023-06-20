@@ -1,4 +1,13 @@
-### Hi there 👋
+# 👩‍💻 Melissa Hale
+
+**'Junior Developer'**
+
+About 
+
+Other Places To Find Me On The Internet 
+
+Contact Details 
+
 
 <!--
 **Mello245/Mello245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
