@@ -1,6 +1,6 @@
 # 👩‍💻 Melissa Hale
 
-**'Junior Developer'**
+**'Developer'**
 
 About 
 
