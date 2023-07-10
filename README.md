@@ -3,7 +3,9 @@
 **'Developer'**
 
 🤔 About 
+<br/>
 🌱 I’m currently learning; Responsive Web Design (SheCodes Responsive Course)
+<br/>
 💬 Other Places To Find Me On The Internet; 
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
