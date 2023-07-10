@@ -6,7 +6,7 @@
 <br/>
 🌱 I’m currently learning; Responsive Web Design (SheCodes Responsive Course)
 <br/>
-💬 Other Places To Find Me On The Internet; 
+💬 Other Places To Find Me On The Internet; <br/>
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
 Contact Details 
