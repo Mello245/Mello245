@@ -6,6 +6,8 @@ About
 
 Other Places To Find Me On The Internet 
 
+https://www.linkedin.com/in/melissa-hale1/
+
 Contact Details 
 
 
