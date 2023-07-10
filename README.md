@@ -2,11 +2,10 @@
 
 **'Developer'**
 
-About 
-
-Other Places To Find Me On The Internet 
-
-https://www.linkedin.com/in/melissa-hale1/
+🤔 About 
+🌱 I’m currently learning; Responsive Web Design (SheCodes Responsive Course)
+💬 Other Places To Find Me On The Internet; 
+LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
 Contact Details 
 
