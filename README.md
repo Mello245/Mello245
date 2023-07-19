@@ -4,7 +4,7 @@
 
 🤔 About 
 <br/>
-🌱 I’m currently learning; Responsive Web Design (SheCodes Responsive Course)
+🌱 I’m currently learning; Advanced React Development (SheCodes React Course)
 <br/>
 💬 Other Places To Find Me On The Internet; <br/>
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
