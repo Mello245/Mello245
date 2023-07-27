@@ -12,6 +12,7 @@
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
 Contact Details 
+Email - melissastephaniehale@gmail.com
 
 
 <!--
