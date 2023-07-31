@@ -6,7 +6,7 @@
 <br/>
 🌱 I’m currently learning; Advanced React Development (SheCodes React Course)
 <br/>
-✨ I am currently undertaking the 100 days of coding challenge [1/100]
+✨ I am currently undertaking the 100 days of coding challenge [5/100]
 <br/>
 💬 Other Places To Find Me On The Internet; <br/>
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
