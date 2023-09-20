@@ -11,8 +11,8 @@
 💬 Other Places To Find Me On The Internet; <br/>
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
-Contact Details 
-Email - melissastephaniehale@gmail.com
+- 📫 How to reach me: 
+      Email - melissastephaniehale@gmail.com
 
 
 <!--
