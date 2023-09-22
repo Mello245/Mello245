@@ -4,6 +4,8 @@
 
 🤔 About 
 <br/>
+😄 Pronouns: She/Her
+<br/>
 🌱 I’m currently learning; Advanced React Development (SheCodes React Course)
 <br/>
 ✨ I am currently undertaking the 100 days of coding challenge [12/100]
