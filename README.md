@@ -1,12 +1,12 @@
 # 👩‍💻 Melissa Hale
 
-**'Developer'**
+**'Software Developer'**
 
 🤔 About 
 <br/>
 😄 Pronouns: She/Her
 <br/>
-🌱 I’m currently learning; Advanced React Development (SheCodes React Course)
+🌱 I’m currently learning; Python (100 Days of Code: The Complete Python Bootcamp for 2023 - Udemy - Dr Angela Yu) 
 <br/>
 ✨ I am currently undertaking the 100 days of coding challenge [12/100]
 <br/>
