@@ -1,21 +1,23 @@
 # 👩‍💻 Melissa Hale
+**' Microsoft MVP '*** 
 
-**'Software Developer'**
+**'Power Platform Developer'**
 
 🤔 About 
 <br/>
 😄 Pronouns: She/Her
 <br/>
-🌱 I’m currently learning; Python (100 Days of Code: The Complete Python Bootcamp for 2023 - Udemy - Dr Angela Yu) 
+🌱 I’m currently learning - 
 <br/>
-✨ I am currently undertaking the 100 days of coding challenge [19/100]
+✨ I am currently undertaking ...
 <br/>
 💬 Other Places To Find Me On The Internet; <br/>
 LinkedIn - https://www.linkedin.com/in/melissa-hale1/
 
-- 📫 How to reach me: 
-      Email - melissastephaniehale@gmail.com
-
+📫 How to reach me: 
+Email - melissastephaniehale@gmail.com
+  
+⚡ Fun fact: I am a pretty decent horse archer 🐎🏹
 
 <!--
 **Mello245/Mello245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
