@@ -1,5 +1,5 @@
 # 👩‍💻 Melissa Hale
-**' Microsoft MVP '*** 
+**' Microsoft MVP '** 
 
 **'Power Platform Developer'**
 
